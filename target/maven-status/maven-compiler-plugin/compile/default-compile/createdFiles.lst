@@ -1,0 +1,11 @@
+ru\dalekseenko\emailserver\Controllers\EmailSenderControllerImpl.class
+ru\dalekseenko\emailserver\Controllers\AuthDecode.class
+ru\dalekseenko\emailserver\utils\JsonParser.class
+ru\dalekseenko\emailserver\MainApplication.class
+ru\dalekseenko\emailserver\Controllers\EmailSenderController.class
+ru\dalekseenko\emailserver\utils\ClassLoger.class
+ru\dalekseenko\emailserver\utils\EmailSender.class
+ru\dalekseenko\emailserver\responses\ResponseCode.class
+ru\dalekseenko\emailserver\responses\ServerResponse.class
+ru\dalekseenko\emailserver\utils\EmailSender$1.class
+ru\dalekseenko\emailserver\Controllers\AccountController.class
