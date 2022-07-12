@@ -68,6 +68,7 @@ class AuthDecode {
     private String password = "";
 
     public AuthDecode(String auth) {
+        ClassLoger.log(AuthDecode.class);
         decode(auth);
     }
 
